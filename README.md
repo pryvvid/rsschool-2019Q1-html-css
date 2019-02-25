@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Hleb Shynkarou
+HTML CSS Basics: https://www.codecademy.com/users/pryvvid/achievements
